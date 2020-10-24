@@ -133,8 +133,8 @@ img {
     border-radius: .3em;
 } 
 
-.content img:hover {
-    transition: opacity .5s ease-in-out;
+.content-image:hover {
+    opacity: .5;
 }
 
 .content{
@@ -318,13 +318,10 @@ footer a {
     .footer a {
     color: #f0f0f0;
 }
+    
     img {
     opacity: .95;
   }
-    
-    img:hover {
-    opacity: .5;
-}
     
     .content .content-overlay {
     background: rgba(0,0,0,0.6);
