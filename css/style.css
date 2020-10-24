@@ -179,11 +179,11 @@ footer a {
   main {
     margin-top: 40px;
     grid-template-columns: repeat(1, 1fr);
-    margin-left: 5em;
+    margin-left: 4.3em;
     margin-right: .3em;
 }
   .header { 
-    width: 5em; 
+    width: 4em; 
 }
   .title { 
     font-size: 1.2em; 
