@@ -326,6 +326,10 @@ footer a {
     .content .content-overlay {
     background: rgba(0,0,0,0.6);
 }
+    
+    footer a {
+    color: #f0f0f0;
+}
 
 
 }
