@@ -133,7 +133,7 @@ img {
     border-radius: .3em;
 } 
 
-img:hover {
+.content img:hover {
     transition: opacity .5s ease-in-out;
 }
 
