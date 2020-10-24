@@ -180,13 +180,13 @@ footer a {
     margin-top: 40px;
     grid-template-columns: repeat(1, 1fr);
     margin-left: 5em;
-    margin-right: .5em;
+    margin-right: .3em;
 }
   .header { 
     width: 5em; 
 }
   .title { 
-    font-size: 1.15em; 
+    font-size: 1.1em; 
     line-height: 30px; 
     padding-left: 0px; 
     padding-right: 0px;
@@ -197,7 +197,7 @@ footer a {
   .header li { 
     height: 40px; 
     line-height: 0px; 
-    font-size: .95em; 
+    font-size: 1em; 
     font-weight: 400;
 }
 }
